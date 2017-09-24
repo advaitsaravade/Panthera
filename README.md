@@ -1,8 +1,6 @@
 # Panthera: Machine Learning to find Credit Card Fraud
 Panthera uses adaptive Machine Learning to detect credit card fraud in big data sets, getting better with time.
-
-![alt tag](https://raw.github.com/advaitsaravade/Panthera/master/gallery.jpg)
-
+<img src="https://raw.github.com/advaitsaravade/Panthera/master/gallery.jpg" style="width:100%;">
 ## Inspiration
 Our goal from the beginning was to solve a real world problem, but we didn't know where to begin. We started by asking our mentors for advice. It was during a conversation with an RBC mentor that we learned about the problem of credit card fraud. It looked like a problem we could solve using an adaptive machine learning algorithm, and that was our motivation to come up with an analytics product like Panthera.
 
@@ -19,9 +17,7 @@ Simply open up a unix terminal (like the Terminal.app on macOS), navigating to t
 ```
 python runme.py
 ```
-
-![alt tag](https://raw.github.com/advaitsaravade/Panthera/master/terminal.jpg)
-
+<img src="https://raw.github.com/advaitsaravade/Panthera/master/terminal.jpg" style="width:100%;">
 ## How we built it
 We built Panthera considering the future of machine learning. Python is incredibly popular for machine learning, has a lot of efficient and useful machine learning libraries, and has a promising future. For these reasons, Panthera was written using Python. We spent a lot of time (lol an hour) honing in on the right subset of algorithms for the job, through multiple iterations.
 
