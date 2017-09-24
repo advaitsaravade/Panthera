@@ -15,11 +15,9 @@ As of writing, and using the sample data set of 284,807 transactions from Europe
 ## How to use it
 ### How do I run it?
 Simply open up a unix terminal (like the Terminal.app on macOS), navigating to the directory where ```runme.py``` + the dataset is stored and typing in
-
 ```
 python runme.py
 ```
-<img src="https://raw.github.com/advaitsaravade/Panthera/master/terminal.jpg" style="width:100%;">
 ### Where can I download the dataset?
 https://www.dropbox.com/sh/coajdym2iz0pown/AAAlAsEsZjqBc_Wcn6h2z7jqa?dl=0&preview=creditcard.csv.zip
 ## How we built it
